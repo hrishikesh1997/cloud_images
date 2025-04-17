@@ -1,33 +1,3 @@
-# cloud_images
-# 📁 Cloud Image Upload API
-
-An Express.js-based RESTful API for uploading, serving, and managing images/files using Sequelize (PostgreSQL), Multer, and login middleware validation. Testable with Postman!
-
----
-
-## 🚀 Features
-
-- ✅ File/Image uploads with Multer
-- ✅ User authentication validation middleware
-- ✅ Static file serving from `uploads/`
-- ✅ Sequelize ORM for database interaction
-- ✅ API testing with Postman
-- ✅ Environment variable support via `.env`
-
----
-
-## 🧱 Tech Stack
-
-- **Node.js** + **Express.js**
-- **Sequelize** + **PostgreSQL**
-- **Multer** (for file uploads)
-- **CORS**, **dotenv**, **fs**, **path**
-- Tested with **Postman**
-
----
-
-## 📁 Project Structure
-
 # 📁 Cloud Image Upload API
 
 An Express.js-based RESTful API for uploading, serving, and managing images/files using Sequelize (PostgreSQL), Multer, and login middleware validation. Testable with Postman!
